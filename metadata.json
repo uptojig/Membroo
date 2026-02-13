@@ -1,0 +1,7 @@
+{
+  "name": "Membroo LIFF - Customer & Staff Experience",
+  "description": "A comprehensive LINE LIFF application for Membroo CRM, featuring member cards, reward redemption, receipt uploads, and staff tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
